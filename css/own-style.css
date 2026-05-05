@@ -24,3 +24,11 @@
     height: 100%;
     object-fit: cover;
 }
+
+
+.height{
+    height: 500px;
+}
+.text-blue{
+    color: rgb(0, 56, 113);
+}
