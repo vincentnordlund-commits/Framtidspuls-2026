@@ -1,7 +1,7 @@
 .logga{
     height: 200px;
     width: 100%;
-    background-image: url("/bilder/furulund-trad.jpg");
+    background-image: url("../bilder/furulund-trad.jpg");
     background-size: cover;
     font-size: 4.5vw;
     color: white;
