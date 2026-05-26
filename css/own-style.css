@@ -35,3 +35,12 @@
     height: 250px;
     width: 400px;
 }
+.footer{
+    padding: 30px;
+}
+.date{
+    text-align: center;
+}
+.credit{
+    text-align: center;
+}
